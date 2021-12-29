@@ -1,0 +1,43 @@
+#brand{
+    text-decoration: none;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif
+}
+#underlist{
+   width: 150px;
+    text-align: center;
+    margin: 10px;
+   
+}
+
+
+ 
+ul {
+    list-style-type: none;
+    
+
+  }
+  
+  li {
+    float: left;
+    background: none;
+   
+  }
+  li a{
+      text-decoration: none;
+      padding: 10px;
+      color: black;
+  }
+ 
+  #rir{
+      float: right;
+  }
+#brandName{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.end{
+    float: right;
+}
+  
